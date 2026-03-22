@@ -122,8 +122,4 @@ spring.devtools.restart.enabled=true
 
 ---
 
-## License
 
-This project is currently unlicensed. Add a `LICENSE` file to define terms of use.
-
----
