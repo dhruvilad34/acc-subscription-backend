@@ -28,7 +28,7 @@ A Spring Boot REST API backend for scraping, analyzing, and recommending OTT (Ov
 - Java 17 or higher
 - Maven 3.6+ (or use the included `./mvnw` wrapper)
 - A compatible browser (Chrome recommended) — WebDriverManager handles driver setup automatically
-- 
+  
 ## Getting Started
 
 ### 1. Clone the repository
